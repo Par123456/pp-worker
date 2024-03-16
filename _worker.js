@@ -1,5 +1,5 @@
 import { connect } from 'cloudflare:sockets';
-// t.me/P_tech2024 
+// t.me/VPNStoreone1
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = 'a4ae0c40-bba4-489e-af8c-65d16117cacd';
